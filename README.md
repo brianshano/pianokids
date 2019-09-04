@@ -1,2 +1,0 @@
-# pianokids
-Created with CodeSandbox
